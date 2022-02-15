@@ -1,5 +1,5 @@
 ```mermaid
 sequenceDiagram
-      A->>B:Helo!
+      A->>B:Hello!
       B->>A:Bye
 ```
