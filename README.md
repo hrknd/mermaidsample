@@ -1,2 +1,5 @@
 # mermaidsample
-mermaidsample
+```mermaid
+sequemceDiagram
+  A->>B
+```
